@@ -5,6 +5,6 @@ Create replica of famous surealistic arts using VR packages like Blocks and Tilt
 
 2018 March: Dali - Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening
 
-![Dali](https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project1%20Dali/dream-caused-by-the-flight-of-a-bee.jpg){:height="50%" width="50%"}
+<img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project1%20Dali/dream-caused-by-the-flight-of-a-bee.jpg" width="48">
 
 [Unlicense]: http://unlicense.org/
