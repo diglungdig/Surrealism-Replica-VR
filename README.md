@@ -5,9 +5,7 @@ Create replica of famous surealistic arts using VR packages like Blocks and Tilt
 
 ## 2018 March: Dali - Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening
 
-Base artwork: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project1%20Dali/dream-caused-by-the-flight-of-a-bee.jpg" width="400">
-
-Result: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project1%20Dali/Screenshot1.png" width="400">
+Base artwork: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project1%20Dali/dream-caused-by-the-flight-of-a-bee.jpg" width="300"> Result: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project1%20Dali/Screenshot1.png" width="300">
 
 YouTube demo is [here](https://www.youtube.com/watch?v=cRWvGMMDRac).
 
