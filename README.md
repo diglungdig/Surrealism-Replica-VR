@@ -11,4 +11,10 @@ YouTube demo is [here](https://www.youtube.com/watch?v=cRWvGMMDRac).
 
 Poly 3D Model is [here](https://poly.google.com/view/ezys50uCrFK). 
 
+
+## 2018 April: Francis Bacon - Three Studies for Figures at the Base of a Crucifixion || Study after Velázquez's Portrait of Pope Innocent X
+
+Base artwork: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project2-Francis-Bacon/CrucificationSet.jpg" width="300"> <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project2-Francis-Bacon/Pope1.jpg" width="300">
+
+
 [Unlicense]: http://unlicense.org/
