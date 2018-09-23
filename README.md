@@ -25,6 +25,6 @@ Poly 3D Model is [here](https://poly.google.com/view/0omHISYCvTX).
 
 Base artworks: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/1.jpeg" width="200"> Result: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/VR_Junji_Gif.gif" width="350">
 
-Poly 3D Model is [here](https://poly.google.com/view/2pFx_0kPUQB). 
+Poly 3D Model is [here](https://poly.google.com/view/bsjQREG826Z). 
 
 [Unlicense]: http://unlicense.org/
