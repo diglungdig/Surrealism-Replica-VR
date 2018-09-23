@@ -1,0 +1,25 @@
+-- glslfx version 0.1
+
+-- configuration
+{
+    "techniques" : {
+        "default" : {
+            "surfaceShader" : {
+                "source": [ "My.SurfaceShader" ]
+            }
+        }
+    }
+}
+
+-- glsl My.SurfaceShader
+vec4
+surfaceShader(vec4 Peye, vec3 Neye, vec4 color, vec4 patchCoord)
+{
+    vec4 finalColor = vec4(FallbackLighting(Peye.xyz, Neye, color.rgb), 1.0);
+    finalColor.a *= HdGet_MainTex().x;
+    if (finalColor.a < 0.5) { discard; }
+    if (finalColor.a > .6) {
+      finalColor.a = 1.0;
+    }
+    return finalColor;
+}
