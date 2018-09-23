@@ -23,6 +23,8 @@ Poly 3D Model is [here](https://poly.google.com/view/0omHISYCvTX).
 
 ## 2018 Aug - Sept: Junji Ito
 
-Base artworks: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/1.jpeg" width="200"> <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/2.jpg" width="200"> <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/3.jpg" width="200"> <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/4.jpg" width="200">
+Base artworks: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/1.jpeg" width="200"> Result: <img src="https://github.com/diglungdig/Surrealism-Replica-VR/blob/master/Project3%20Junji%20Ito/VR_Junji_Gif.gif" width="350">
+
+Poly 3D Model is [here](https://poly.google.com/view/2pFx_0kPUQB). 
 
 [Unlicense]: http://unlicense.org/
